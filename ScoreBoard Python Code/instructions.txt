@@ -1,0 +1,5 @@
+ldr r01 r10
+add r10 r05 r09
+sub r09 r10 r15
+mul r05 r08 r10
+iml r09 r10 r16
